@@ -11,9 +11,9 @@ Cross out and remove completed Quests.
 # Features 
 Add reminders for your next objective and goals to reach successs.
 
-Cross out and remove completed Quests.
-
 Local Storage Support
+
+Uncheck previously completed Quests
 
 Displays the current date
 
