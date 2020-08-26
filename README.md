@@ -3,10 +3,10 @@ Keep track of all of your side quests and tasks in the Legend of Zelda Breath of
 
 
 
-Add reminders for new areas and your next objective.
+Add reminders for your next objective and goals.
 
 Local Storage Support
 
-Cross out completed Quests
+Cross out and remove completed Quests.
 
 
