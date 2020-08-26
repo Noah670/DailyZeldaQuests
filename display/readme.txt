@@ -1,1 +1,1 @@
-Screenshots of Daily Tasks Zelda
+Demo screens of DailyZeldaQuest
